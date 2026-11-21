@@ -1,0 +1,22 @@
+{
+  "wheel_id": 936,
+  "structure": "umbrella",
+  "slug": "homeloanbrokeripswich-109",
+  "project": "mortgage-broker-ipswich-planning-guide-5db55a1e6308f5178d38dde1",
+  "parent_t1_ref": "homeloanbrokeripswich-154",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokeripswich.com.au",
+  "primary_kw": "mortgage broker ipswich planning guide",
+  "intended_url": "http://mortgage-broker-ipswich-planning-guide-5db55a1e6308f5178d38dde1.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "0f74d910d8182263",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/homeloanbrokeripswich-154/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
